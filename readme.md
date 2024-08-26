@@ -1,0 +1,2 @@
+<h1>Amharic Spelling and Grammar Checker</h1>
+his repository houses a powerful tool designed for checking spelling and grammar in Amharic text. It aims to enhance the quality and accuracy of written Amharic by providing real-time correction and suggestions. Whether you're developing a word processor, a web application, or any project that involves Amharic text, this tool is an essential addition to ensure linguistic precision.
